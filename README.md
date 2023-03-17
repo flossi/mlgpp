@@ -5,7 +5,8 @@
 This project contains files for reproducing results from the paper "Comparison of data-driven models for ecosystem GPP estimation
 based on mid-resolution hyperspectral data"
 
-For preprocessing follow instructions in prisma\_gpp\_preproc\_main.py
+For preprocessing follow instructions in prisma\_gpp\_preproc\_main.py.
+
 For statistical analysis use prisma\_gpp\_stats\_main.py
 
 Please note that the code has been designed with Python 3.9.3 and R 4.2.2 on Ubuntu 20.04.2 LTS. Error handling exists but is not exhaustive.
